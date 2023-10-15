@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LLM Rerank</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans&family=DM+Serif+Display&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/llm-rerank/static/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="content">
+            <h1>LLM Rerank</h1>
+            <div class="input">
+                <textarea class="query-input" type="text"></textarea>
+                <button class="submit-button" type="button">Submit</button>
+            </div>
+            <div class="answer">
+                <div class="answer-content"></div>
+                <div class="answer-skeleton">
+                    <div class="answer-skeleton-line"></div>
+                    <div class="answer-skeleton-line"></div>
+                    <div class="answer-skeleton-line"></div>
+                    <div class="answer-skeleton-line"></div>
+                    <div class="answer-skeleton-line"></div>
+                    <div class="answer-skeleton-line"></div>
+                    <div class="answer-skeleton-line"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="/llm-rerank/static/index.js"></script>
+</body>
+
+</html>
