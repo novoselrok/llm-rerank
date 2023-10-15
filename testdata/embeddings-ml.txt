@@ -1,0 +1,6 @@
+I want to add semantic search to my e-commerce site.
+Machine Learning - Google for Developers,https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture, An embedding captures some of the semantics of the input by placing semantically similar inputs close together in the embedding space.
+Embedding of Unimodular Row Vectors, https://www.mdpi.com/2227-7390/11/18/3911, In this paper we mainly study the embedding problem of unimodular row vectors focusing on avoiding the identification of polynomial zeros.
+Getting Started With Embeddings,https://huggingface.co/blog/getting-started-with-embeddings, An embedding is a numerical representation of a piece of information for example text documents images audio etc.
+Embeddings - OpenAI API,https://platform.openai.com/docs/guides/embeddings, OpenAI's text embeddings measure the relatedness of text strings.
+Embedding,https://en.wikipedia.org/wiki/Embedding, In mathematics an embedding is one instance of some mathematical structure contained within another instance such as a group that is a subgroup.
